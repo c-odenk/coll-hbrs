@@ -19,8 +19,10 @@ Entwickelt wurde die Plattform in einem agilen 8er Team nach Scrum.
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 <br>
 <br>
+<br>
 ## Aufgabenstellung für die Entwicklung der Kollaborationsplattform "Coll@HBRS:
 Ziel war die Entwicklung einer Web-basierten Kollaborationsplattform für Studierende, Unternehmen und der HBRS. Die Plattform soll zur zentralen Anlaufstelle für die Vernetzung zwischen Studierenden und Unternehmen werden und die Suche nach Praktika, Masterarbeiten und beruflichen Einstiegsmöglichkeiten erleichtern. Darüber hinaus soll der Austausch von Lernmaterialien und studentischen Dienstleistungen ermöglicht werden.
+<br>
 <br>
 <br>
 ## Anforderungsanalyse - Funktionale Anforderungen:
@@ -64,6 +66,7 @@ Ziel war die Entwicklung einer Web-basierten Kollaborationsplattform für Studie
  <li> Die Plattform muss ein sicheres Login-System bieten, einschließlich verschlüsselter Übertragung und Speicherung von Daten. </li>
  <li> Nutzende müssen jederzeit die Möglichkeit haben, ihre Profile vollständig zu löschen. </li>
 </ul>
+<br>
 <br>
 
 ## Anforderungsanalyse - Technische Anforderungen:
